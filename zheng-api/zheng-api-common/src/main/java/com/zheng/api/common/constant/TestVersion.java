@@ -12,7 +12,7 @@ package com.zheng.api.common.constant;
 
 /**
  * 〈一句话功能简述〉<br> 
- * 〈test〉
+ * 〈test〉2222
  *
  * @author MingRuiRen
  * @create 2018/6/15
