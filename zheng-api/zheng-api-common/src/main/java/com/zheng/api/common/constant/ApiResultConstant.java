@@ -1,6 +1,6 @@
 package com.zheng.api.common.constant;
 
-/**
+/**test
  * api系统接口结果常量枚举类
  * Created by shuzheng on 2017/2/19.
  */
